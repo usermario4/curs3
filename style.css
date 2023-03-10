@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.welcome {
+    display: flex;
+   justify-content: center;
+    width: 50%;
+}
+
+.welcome-image {
+    width: 50%;
+}
+
+.welcome-image img {
+    width: 220%;
+}
+
+.welcome-login {
+    width: 50%;
+    position: relative ; left: 700px;
+}
+.text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
